@@ -1,0 +1,14 @@
+{
+  "age": "41 years old",
+  "home": {
+    "country": "Haiti",
+    "address": "365 example street"
+  },
+  "friends": [
+    "Janey, Jacquelin",
+    "Celestina, Theda",
+    "Sherye, Aarika",
+    "Brittne, Rycca",
+    "Maisey, Eran"
+  ]
+}
